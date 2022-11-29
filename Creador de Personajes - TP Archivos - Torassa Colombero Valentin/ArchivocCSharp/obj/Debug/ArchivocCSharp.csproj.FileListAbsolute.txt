@@ -1,0 +1,33 @@
+C:\Users\° Vale °\OneDrive\Escritorio\Creador de Personajes - TP Archivos - Torassa Colombero Valentin\ArchivocCSharp\ArchivocCSharp\bin\Debug\ArchivocCSharp.exe.config
+C:\Users\° Vale °\OneDrive\Escritorio\Creador de Personajes - TP Archivos - Torassa Colombero Valentin\ArchivocCSharp\ArchivocCSharp\bin\Debug\ArchivocCSharp.exe
+C:\Users\° Vale °\OneDrive\Escritorio\Creador de Personajes - TP Archivos - Torassa Colombero Valentin\ArchivocCSharp\ArchivocCSharp\bin\Debug\ArchivocCSharp.pdb
+C:\Users\° Vale °\OneDrive\Escritorio\Creador de Personajes - TP Archivos - Torassa Colombero Valentin\ArchivocCSharp\ArchivocCSharp\obj\Debug\ArchivocCSharp.csproj.AssemblyReference.cache
+C:\Users\° Vale °\OneDrive\Escritorio\Creador de Personajes - TP Archivos - Torassa Colombero Valentin\ArchivocCSharp\ArchivocCSharp\obj\Debug\ArchivocCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\° Vale °\OneDrive\Escritorio\Creador de Personajes - TP Archivos - Torassa Colombero Valentin\ArchivocCSharp\ArchivocCSharp\obj\Debug\ArchivocCSharp.Form1.resources
+C:\Users\° Vale °\OneDrive\Escritorio\Creador de Personajes - TP Archivos - Torassa Colombero Valentin\ArchivocCSharp\ArchivocCSharp\obj\Debug\ArchivocCSharp.Properties.Resources.resources
+C:\Users\° Vale °\OneDrive\Escritorio\Creador de Personajes - TP Archivos - Torassa Colombero Valentin\ArchivocCSharp\ArchivocCSharp\obj\Debug\ArchivocCSharp.csproj.GenerateResource.cache
+C:\Users\° Vale °\OneDrive\Escritorio\Creador de Personajes - TP Archivos - Torassa Colombero Valentin\ArchivocCSharp\ArchivocCSharp\obj\Debug\ArchivocCSharp.csproj.CoreCompileInputs.cache
+C:\Users\° Vale °\OneDrive\Escritorio\Creador de Personajes - TP Archivos - Torassa Colombero Valentin\ArchivocCSharp\ArchivocCSharp\obj\Debug\ArchivocCSharp.exe
+C:\Users\° Vale °\OneDrive\Escritorio\Creador de Personajes - TP Archivos - Torassa Colombero Valentin\ArchivocCSharp\ArchivocCSharp\obj\Debug\ArchivocCSharp.pdb
+C:\Users\° Vale °\OneDrive\Escritorio\Creador de Personajes - TP Archivos - Torassa Colombero Valentin\ArchivocCSharp\bin\Debug\ArchivocCSharp.exe.config
+C:\Users\° Vale °\OneDrive\Escritorio\Creador de Personajes - TP Archivos - Torassa Colombero Valentin\ArchivocCSharp\bin\Debug\ArchivocCSharp.exe
+C:\Users\° Vale °\OneDrive\Escritorio\Creador de Personajes - TP Archivos - Torassa Colombero Valentin\ArchivocCSharp\bin\Debug\ArchivocCSharp.pdb
+C:\Users\° Vale °\OneDrive\Escritorio\Creador de Personajes - TP Archivos - Torassa Colombero Valentin\ArchivocCSharp\obj\Debug\ArchivocCSharp.csproj.AssemblyReference.cache
+C:\Users\° Vale °\OneDrive\Escritorio\Creador de Personajes - TP Archivos - Torassa Colombero Valentin\ArchivocCSharp\obj\Debug\ArchivocCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\° Vale °\OneDrive\Escritorio\Creador de Personajes - TP Archivos - Torassa Colombero Valentin\ArchivocCSharp\obj\Debug\ArchivocCSharp.Form1.resources
+C:\Users\° Vale °\OneDrive\Escritorio\Creador de Personajes - TP Archivos - Torassa Colombero Valentin\ArchivocCSharp\obj\Debug\ArchivocCSharp.Properties.Resources.resources
+C:\Users\° Vale °\OneDrive\Escritorio\Creador de Personajes - TP Archivos - Torassa Colombero Valentin\ArchivocCSharp\obj\Debug\ArchivocCSharp.csproj.GenerateResource.cache
+C:\Users\° Vale °\OneDrive\Escritorio\Creador de Personajes - TP Archivos - Torassa Colombero Valentin\ArchivocCSharp\obj\Debug\ArchivocCSharp.csproj.CoreCompileInputs.cache
+C:\Users\° Vale °\OneDrive\Escritorio\Creador de Personajes - TP Archivos - Torassa Colombero Valentin\ArchivocCSharp\obj\Debug\ArchivocCSharp.exe
+C:\Users\° Vale °\OneDrive\Escritorio\Creador de Personajes - TP Archivos - Torassa Colombero Valentin\ArchivocCSharp\obj\Debug\ArchivocCSharp.pdb
+D:\ESCRITORIO NO BORRAR\C#\Proyectos Visual Studio\Trabajo practico con Archivos TP2\Creador de Personajes - TP Archivos - Torassa Colombero Valentin\ArchivocCSharp\bin\Debug\ArchivocCSharp.exe.config
+D:\ESCRITORIO NO BORRAR\C#\Proyectos Visual Studio\Trabajo practico con Archivos TP2\Creador de Personajes - TP Archivos - Torassa Colombero Valentin\ArchivocCSharp\bin\Debug\ArchivocCSharp.exe
+D:\ESCRITORIO NO BORRAR\C#\Proyectos Visual Studio\Trabajo practico con Archivos TP2\Creador de Personajes - TP Archivos - Torassa Colombero Valentin\ArchivocCSharp\bin\Debug\ArchivocCSharp.pdb
+D:\ESCRITORIO NO BORRAR\C#\Proyectos Visual Studio\Trabajo practico con Archivos TP2\Creador de Personajes - TP Archivos - Torassa Colombero Valentin\ArchivocCSharp\obj\Debug\ArchivocCSharp.csproj.AssemblyReference.cache
+D:\ESCRITORIO NO BORRAR\C#\Proyectos Visual Studio\Trabajo practico con Archivos TP2\Creador de Personajes - TP Archivos - Torassa Colombero Valentin\ArchivocCSharp\obj\Debug\ArchivocCSharp.csproj.SuggestedBindingRedirects.cache
+D:\ESCRITORIO NO BORRAR\C#\Proyectos Visual Studio\Trabajo practico con Archivos TP2\Creador de Personajes - TP Archivos - Torassa Colombero Valentin\ArchivocCSharp\obj\Debug\ArchivocCSharp.Form1.resources
+D:\ESCRITORIO NO BORRAR\C#\Proyectos Visual Studio\Trabajo practico con Archivos TP2\Creador de Personajes - TP Archivos - Torassa Colombero Valentin\ArchivocCSharp\obj\Debug\ArchivocCSharp.Properties.Resources.resources
+D:\ESCRITORIO NO BORRAR\C#\Proyectos Visual Studio\Trabajo practico con Archivos TP2\Creador de Personajes - TP Archivos - Torassa Colombero Valentin\ArchivocCSharp\obj\Debug\ArchivocCSharp.csproj.GenerateResource.cache
+D:\ESCRITORIO NO BORRAR\C#\Proyectos Visual Studio\Trabajo practico con Archivos TP2\Creador de Personajes - TP Archivos - Torassa Colombero Valentin\ArchivocCSharp\obj\Debug\ArchivocCSharp.csproj.CoreCompileInputs.cache
+D:\ESCRITORIO NO BORRAR\C#\Proyectos Visual Studio\Trabajo practico con Archivos TP2\Creador de Personajes - TP Archivos - Torassa Colombero Valentin\ArchivocCSharp\obj\Debug\ArchivocCSharp.exe
+D:\ESCRITORIO NO BORRAR\C#\Proyectos Visual Studio\Trabajo practico con Archivos TP2\Creador de Personajes - TP Archivos - Torassa Colombero Valentin\ArchivocCSharp\obj\Debug\ArchivocCSharp.pdb

@@ -1,0 +1,22 @@
+C:\Users\° Vale °\OneDrive\Escritorio\CRUD C# con Coleccion Archivo y Capas\TpArchivos-TorassaValentin\bin\Debug\TpArchivos-TorassaValentin.exe.config
+C:\Users\° Vale °\OneDrive\Escritorio\CRUD C# con Coleccion Archivo y Capas\TpArchivos-TorassaValentin\bin\Debug\TpArchivos-TorassaValentin.exe
+C:\Users\° Vale °\OneDrive\Escritorio\CRUD C# con Coleccion Archivo y Capas\TpArchivos-TorassaValentin\bin\Debug\TpArchivos-TorassaValentin.pdb
+C:\Users\° Vale °\OneDrive\Escritorio\CRUD C# con Coleccion Archivo y Capas\TpArchivos-TorassaValentin\obj\Debug\TpArchivos-TorassaValentin.csproj.AssemblyReference.cache
+C:\Users\° Vale °\OneDrive\Escritorio\CRUD C# con Coleccion Archivo y Capas\TpArchivos-TorassaValentin\obj\Debug\TpArchivos-TorassaValentin.csproj.SuggestedBindingRedirects.cache
+C:\Users\° Vale °\OneDrive\Escritorio\CRUD C# con Coleccion Archivo y Capas\TpArchivos-TorassaValentin\obj\Debug\TpArchivos_TorassaValentin.Form1.resources
+C:\Users\° Vale °\OneDrive\Escritorio\CRUD C# con Coleccion Archivo y Capas\TpArchivos-TorassaValentin\obj\Debug\TpArchivos_TorassaValentin.Properties.Resources.resources
+C:\Users\° Vale °\OneDrive\Escritorio\CRUD C# con Coleccion Archivo y Capas\TpArchivos-TorassaValentin\obj\Debug\TpArchivos-TorassaValentin.csproj.GenerateResource.cache
+C:\Users\° Vale °\OneDrive\Escritorio\CRUD C# con Coleccion Archivo y Capas\TpArchivos-TorassaValentin\obj\Debug\TpArchivos-TorassaValentin.csproj.CoreCompileInputs.cache
+C:\Users\° Vale °\OneDrive\Escritorio\CRUD C# con Coleccion Archivo y Capas\TpArchivos-TorassaValentin\obj\Debug\TpArchivos-TorassaValentin.exe
+C:\Users\° Vale °\OneDrive\Escritorio\CRUD C# con Coleccion Archivo y Capas\TpArchivos-TorassaValentin\obj\Debug\TpArchivos-TorassaValentin.pdb
+D:\ESCRITORIO NO BORRAR\C#\Proyectos Visual Studio\Trabajo practico con Archivos TP2\TP archivos Reversion - Valentin Torassa Colombero\TpArchivos-TorassaValentin\bin\Debug\TpArchivos-TorassaValentin.exe.config
+D:\ESCRITORIO NO BORRAR\C#\Proyectos Visual Studio\Trabajo practico con Archivos TP2\TP archivos Reversion - Valentin Torassa Colombero\TpArchivos-TorassaValentin\bin\Debug\TpArchivos-TorassaValentin.exe
+D:\ESCRITORIO NO BORRAR\C#\Proyectos Visual Studio\Trabajo practico con Archivos TP2\TP archivos Reversion - Valentin Torassa Colombero\TpArchivos-TorassaValentin\bin\Debug\TpArchivos-TorassaValentin.pdb
+D:\ESCRITORIO NO BORRAR\C#\Proyectos Visual Studio\Trabajo practico con Archivos TP2\TP archivos Reversion - Valentin Torassa Colombero\TpArchivos-TorassaValentin\obj\Debug\TpArchivos-TorassaValentin.csproj.AssemblyReference.cache
+D:\ESCRITORIO NO BORRAR\C#\Proyectos Visual Studio\Trabajo practico con Archivos TP2\TP archivos Reversion - Valentin Torassa Colombero\TpArchivos-TorassaValentin\obj\Debug\TpArchivos-TorassaValentin.csproj.SuggestedBindingRedirects.cache
+D:\ESCRITORIO NO BORRAR\C#\Proyectos Visual Studio\Trabajo practico con Archivos TP2\TP archivos Reversion - Valentin Torassa Colombero\TpArchivos-TorassaValentin\obj\Debug\TpArchivos_TorassaValentin.Form1.resources
+D:\ESCRITORIO NO BORRAR\C#\Proyectos Visual Studio\Trabajo practico con Archivos TP2\TP archivos Reversion - Valentin Torassa Colombero\TpArchivos-TorassaValentin\obj\Debug\TpArchivos_TorassaValentin.Properties.Resources.resources
+D:\ESCRITORIO NO BORRAR\C#\Proyectos Visual Studio\Trabajo practico con Archivos TP2\TP archivos Reversion - Valentin Torassa Colombero\TpArchivos-TorassaValentin\obj\Debug\TpArchivos-TorassaValentin.csproj.GenerateResource.cache
+D:\ESCRITORIO NO BORRAR\C#\Proyectos Visual Studio\Trabajo practico con Archivos TP2\TP archivos Reversion - Valentin Torassa Colombero\TpArchivos-TorassaValentin\obj\Debug\TpArchivos-TorassaValentin.csproj.CoreCompileInputs.cache
+D:\ESCRITORIO NO BORRAR\C#\Proyectos Visual Studio\Trabajo practico con Archivos TP2\TP archivos Reversion - Valentin Torassa Colombero\TpArchivos-TorassaValentin\obj\Debug\TpArchivos-TorassaValentin.exe
+D:\ESCRITORIO NO BORRAR\C#\Proyectos Visual Studio\Trabajo practico con Archivos TP2\TP archivos Reversion - Valentin Torassa Colombero\TpArchivos-TorassaValentin\obj\Debug\TpArchivos-TorassaValentin.pdb

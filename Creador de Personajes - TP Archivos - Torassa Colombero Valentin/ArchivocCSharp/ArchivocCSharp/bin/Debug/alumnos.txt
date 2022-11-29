@@ -1,0 +1,2 @@
+15,Enano,Arquero
+88,Orco,Arquero
